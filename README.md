@@ -2,6 +2,10 @@
 
 En un mundo donde los datos son el nuevo petróleo, entender las tendencias y patrones ocultos en conjuntos de datos puede ser la diferencia entre el éxito y el estancamiento. En este trabajo, exploramos un extenso conjunto de datos de ventas que abarca diferentes productos, clientes y transacciones. Más allá de los números y las cifras, este análisis ofrece una ventana al comportamiento del mercado y las preferencias del consumidor, revelando insights cruciales para las estrategias empresariales y de marketing.
 
+## Metodología
+
+Para llevar a cabo este análisis, se utilizó un conjunto de datos disponible en Kaggle, [Supermarket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales), un conjunto de datos de ventas de supermercados. El análisis se realizó en un entorno de Jupyter Notebook utilizando Google Colab, aprovechando las capacidades de computación en la nube para procesar y visualizar grandes volúmenes de datos de manera eficiente.
+
 ## ¿Por qué es importante?
 
 Las ventas son el motor que impulsa cualquier negocio, y comprender las dinámicas detrás de ellas es fundamental para la toma de decisiones informadas. Este análisis de datos no solo proporciona una visión profunda del rendimiento de ventas, sino que también arroja luz sobre aspectos como la segmentación del mercado, la lealtad del cliente y la eficacia de las estrategias de precios y promoción. Estos conocimientos son invaluables para las empresas que buscan maximizar sus ganancias, mejorar la experiencia del cliente y mantenerse a la vanguardia en un mercado competitivo.
@@ -18,6 +22,3 @@ Las ventas son el motor que impulsa cualquier negocio, y comprender las dinámic
 
 Este análisis es más que un ejercicio de números; es una herramienta poderosa para desentrañar los misterios del mercado y guiar a las empresas hacia el éxito. Acompáñanos en este viaje mientras desglosamos los datos y descubrimos las historias que nos cuentan.
 
-## Metodología
-
-Para llevar a cabo este análisis, se utilizó un conjunto de datos disponible en Kaggle, [Supermarket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales), un conjunto de datos de ventas de supermercados. El análisis se realizó en un entorno de Jupyter Notebook utilizando Google Colab, aprovechando las capacidades de computación en la nube para procesar y visualizar grandes volúmenes de datos de manera eficiente.
