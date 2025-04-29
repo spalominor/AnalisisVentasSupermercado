@@ -1,4 +1,4 @@
-# AnalisisVentasSupermercado
+# AnalisisVentasSupermercado 🔗[Enlace](https://github.com/spalominor/AnalisisVentasSupermercado/blob/50e35487ed135bf8d20cc8e66a953d4098815c2b/AnalisisVentas.ipynb)🔗
 
 En un mundo donde los datos son el nuevo petróleo, entender las tendencias y patrones ocultos en conjuntos de datos puede ser la diferencia entre el éxito y el estancamiento. En este trabajo, exploramos un extenso conjunto de datos de ventas que abarca diferentes productos, clientes y transacciones. Más allá de los números y las cifras, este análisis ofrece una ventana al comportamiento del mercado y las preferencias del consumidor, revelando insights cruciales para las estrategias empresariales y de marketing.
 
