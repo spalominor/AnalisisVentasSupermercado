@@ -2,6 +2,8 @@
 
 En un mundo donde los datos son el nuevo petróleo, entender las tendencias y patrones ocultos en conjuntos de datos puede ser la diferencia entre el éxito y el estancamiento. En este trabajo, exploramos un extenso conjunto de datos de ventas que abarca diferentes productos, clientes y transacciones. Más allá de los números y las cifras, este análisis ofrece una ventana al comportamiento del mercado y las preferencias del consumidor, revelando insights cruciales para las estrategias empresariales y de marketing.
 
+![635_1x_shots_so](https://github.com/user-attachments/assets/61a4cd07-a6c3-4a7b-a07f-3923c2634136)
+
 ## Metodología
 
 Para llevar a cabo este análisis, se utilizó un conjunto de datos disponible en Kaggle, [Supermarket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales), un conjunto de datos de ventas de supermercados. El análisis se realizó en un entorno de Jupyter Notebook utilizando Google Colab, aprovechando las capacidades de computación en la nube para procesar y visualizar grandes volúmenes de datos de manera eficiente.
